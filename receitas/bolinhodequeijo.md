@@ -1,4 +1,4 @@
-# ![bolinho](D:\Usuarios\mayum\Downloads\Workspace\livro-receitas\bolinho.jpg)
+# ![bolinho](D:\Usuarios\mayum\Downloads\Workspace\livro-receitas\receitas\bolinho.jpg)
 
 # Bolinho de queijo
 
